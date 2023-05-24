@@ -1,6 +1,8 @@
 
 # Supply Chain Analytics
 
+LinkedIn Post: https://www.linkedin.com/posts/thao-hth_supply-chain-analytics-activity-7066684184194428928-2oQ1?utm_source=share&utm_medium=member_desktop
+
 ## **Context** 
 A fictitious company is facing a problem where some key customers were not willing to renew the annual contract because of service issues. The manager wants to check KPI on delivery (On Time and In Full performance levels) for all customers in order to better understand the problems and thus come up with some possible solutions.
 
