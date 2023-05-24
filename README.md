@@ -4,7 +4,7 @@
 LinkedIn Post: https://www.linkedin.com/posts/thao-hth_supply-chain-analytics-activity-7066684184194428928-2oQ1?utm_source=share&utm_medium=member_desktop
 
 ## **Context** 
-A fictitious company is facing a problem where some key customers were not willing to renew the annual contract because of service issues. The manager wants to check KPI on delivery (On Time and In Full performance levels) for all customers in order to better understand the problems and thus come up with some possible solutions.
+A fictitious FMCG company is facing a problem where some key customers were not willing to renew the annual contract because of service issues. The manager wants to check KPI on delivery (On Time and In Full performance levels) for all customers in order to better understand the problems and thus come up with some possible solutions.
 
 ## **Data**
 There are 5 tables in csv format, containing supply chain information of the company. In real world scenarios, databases have hundreds of tables with a lot of attributes. Therefore, it is critical to query and combine the information to feed your dashboard with just the needed amount of data.
